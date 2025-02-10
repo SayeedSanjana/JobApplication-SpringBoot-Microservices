@@ -40,6 +40,7 @@ public class JobServiceImpl implements JobService {
 //
     }
 
+    //delete job
     @Override
     public boolean deleteJob(Long id) {
         try {
