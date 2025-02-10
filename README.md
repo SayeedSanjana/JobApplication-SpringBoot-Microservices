@@ -38,10 +38,10 @@ A **Java Spring Boot REST API** for managing job applications. This project incl
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/job-application-api.git
+   git clone https://github.com/SayeedSanjana/JobApplication-SpringBoot-Microservices.git
 2. Navigate the project directorycd:
     ```sh
-   cd job-application-api
+   cd jobapp
 3. Build and run the application:
     ```sh
     ./mvnw spring-boot:run
