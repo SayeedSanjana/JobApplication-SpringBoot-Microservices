@@ -31,6 +31,7 @@ public class JobServiceImpl implements JobService {
         return null;
     }
 
+    //delete job
     @Override
     public boolean deleteJob(Long id) {
         Iterator<Job> iterator = jobs.iterator();
