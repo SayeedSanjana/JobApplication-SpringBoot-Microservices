@@ -46,3 +46,16 @@ A **Java Spring Boot REST API** for managing job applications. This project incl
     ```sh
     ./mvnw spring-boot:run
 4. The api will be available at: http://localhost:8080
+
+## Additional Features & Learning Goals
+
+- **Master Spring Boot fundamentals** to create robust REST APIs efficiently.
+- **Seamlessly transition** from monolithic to microservices architecture.
+- **Dockerize Spring Boot applications** and manage multi-container setups.
+- **Deploy and orchestrate scalable microservices** using Kubernetes.
+- **Implement inter-service communication** with RestTemplate and OpenFeign.
+- **Integrate and configure PostgreSQL databases** using Docker.
+- **Secure applications** using Spring Boot Actuator, Config Server, and Resilience4J.
+- **Monitor and trace microservices** with Zipkin and Micrometer.
+- **Utilize Eureka** for effective service registry and discoverability.
+- **Apply fault tolerance, circuit breaking, and rate limiting** with Resilience4J.
